@@ -6,7 +6,9 @@
 import scrapy
 
 
-class Tamrin4Item(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+class CurrencyItem(scrapy.Item):
+    flag_image = scrapy.Field()
+    country = scrapy.Field()
+    currency = scrapy.Field()
+    code = scrapy.Field()
+    symbol = scrapy.Field()
