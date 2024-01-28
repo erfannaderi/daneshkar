@@ -47,7 +47,8 @@ with open('users.csv', 'w', newline='') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
     for user in users:
-        writer.writerow({'Name': user['name'], 'Age Category': user['age_category']})
+        writer.writerow({'Name': user['name'],
+                         'Age Category': user['age_category']})
 
 # Close the program after 20 seconds
 time.sleep(20)
