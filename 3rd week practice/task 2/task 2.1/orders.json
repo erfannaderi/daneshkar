@@ -1,0 +1,1440 @@
+{
+  "customer_code": "C299",
+  "product_name": "Product 4",
+  "month_number": 6,
+  "base_price": 33.30724942392227,
+  "quantity": 1,
+  "final_amount": 33.30724942392227
+}
+{
+  "customer_code": "C107",
+  "product_name": "Product 4",
+  "month_number": 7,
+  "base_price": 81.20154875263701,
+  "quantity": 2,
+  "final_amount": 162.40309750527402
+}
+{
+  "customer_code": "C723",
+  "product_name": "Product 9",
+  "month_number": 8,
+  "base_price": 17.45084160358069,
+  "quantity": 1,
+  "final_amount": 17.45084160358069
+}
+{
+  "customer_code": "C704",
+  "product_name": "Product 2",
+  "month_number": 6,
+  "base_price": 98.30075827291779,
+  "quantity": 3,
+  "final_amount": 294.90227481875337
+}
+{
+  "customer_code": "C028",
+  "product_name": "Product 2",
+  "month_number": 6,
+  "base_price": 72.00582296303875,
+  "quantity": 2,
+  "final_amount": 144.0116459260775
+}
+{
+  "customer_code": "C867",
+  "product_name": "Product 2",
+  "month_number": 4,
+  "base_price": 65.62905386473575,
+  "quantity": 1,
+  "final_amount": 65.62905386473575
+}
+{
+  "customer_code": "C346",
+  "product_name": "Product 7",
+  "month_number": 1,
+  "base_price": 86.08090466785501,
+  "quantity": 3,
+  "final_amount": 258.242714003565
+}
+{
+  "customer_code": "C234",
+  "product_name": "Product 1",
+  "month_number": 1,
+  "base_price": 75.64943961114969,
+  "quantity": 1,
+  "final_amount": 75.64943961114969
+}
+{
+  "customer_code": "C500",
+  "product_name": "Product 9",
+  "month_number": 3,
+  "base_price": 87.7434815757182,
+  "quantity": 4,
+  "final_amount": 350.9739263028728
+}
+{
+  "customer_code": "C931",
+  "product_name": "Product 1",
+  "month_number": 8,
+  "base_price": 45.55639716343487,
+  "quantity": 1,
+  "final_amount": 45.55639716343487
+}
+{
+  "customer_code": "C882",
+  "product_name": "Product 6",
+  "month_number": 3,
+  "base_price": 76.58386221146957,
+  "quantity": 4,
+  "final_amount": 306.33544884587826
+}
+{
+  "customer_code": "C660",
+  "product_name": "Product 9",
+  "month_number": 2,
+  "base_price": 49.296233051143254,
+  "quantity": 1,
+  "final_amount": 49.296233051143254
+}
+{
+  "customer_code": "C219",
+  "product_name": "Product 2",
+  "month_number": 7,
+  "base_price": 80.30367993476605,
+  "quantity": 4,
+  "final_amount": 321.2147197390642
+}
+{
+  "customer_code": "C645",
+  "product_name": "Product 1",
+  "month_number": 9,
+  "base_price": 90.6504799164279,
+  "quantity": 1,
+  "final_amount": 90.6504799164279
+}
+{
+  "customer_code": "C514",
+  "product_name": "Product 8",
+  "month_number": 3,
+  "base_price": 71.84792293181559,
+  "quantity": 3,
+  "final_amount": 215.54376879544677
+}
+{
+  "customer_code": "C333",
+  "product_name": "Product 3",
+  "month_number": 4,
+  "base_price": 12.34231851343641,
+  "quantity": 2,
+  "final_amount": 24.68463702687282
+}
+{
+  "customer_code": "C159",
+  "product_name": "Product 2",
+  "month_number": 9,
+  "base_price": 12.614157901728811,
+  "quantity": 3,
+  "final_amount": 37.842473705186435
+}
+{
+  "customer_code": "C966",
+  "product_name": "Product 8",
+  "month_number": 6,
+  "base_price": 65.58970522888978,
+  "quantity": 1,
+  "final_amount": 65.58970522888978
+}
+{
+  "customer_code": "C376",
+  "product_name": "Product 5",
+  "month_number": 10,
+  "base_price": 52.748053323955645,
+  "quantity": 2,
+  "final_amount": 105.49610664791129
+}
+{
+  "customer_code": "C918",
+  "product_name": "Product 10",
+  "month_number": 3,
+  "base_price": 24.1596517923448,
+  "quantity": 4,
+  "final_amount": 96.6386071693792
+}
+{
+  "customer_code": "C006",
+  "product_name": "Product 8",
+  "month_number": 2,
+  "base_price": 25.900131382712445,
+  "quantity": 4,
+  "final_amount": 103.60052553084978
+}
+{
+  "customer_code": "C914",
+  "product_name": "Product 7",
+  "month_number": 3,
+  "base_price": 12.396860277210418,
+  "quantity": 1,
+  "final_amount": 12.396860277210418
+}
+{
+  "customer_code": "C548",
+  "product_name": "Product 9",
+  "month_number": 10,
+  "base_price": 36.516338380317734,
+  "quantity": 1,
+  "final_amount": 36.516338380317734
+}
+{
+  "customer_code": "C741",
+  "product_name": "Product 9",
+  "month_number": 3,
+  "base_price": 17.63439722501739,
+  "quantity": 3,
+  "final_amount": 52.90319167505217
+}
+{
+  "customer_code": "C446",
+  "product_name": "Product 10",
+  "month_number": 3,
+  "base_price": 45.51294183542213,
+  "quantity": 2,
+  "final_amount": 91.02588367084427
+}
+{
+  "customer_code": "C916",
+  "product_name": "Product 3",
+  "month_number": 10,
+  "base_price": 41.27998690037522,
+  "quantity": 1,
+  "final_amount": 41.27998690037522
+}
+{
+  "customer_code": "C732",
+  "product_name": "Product 6",
+  "month_number": 3,
+  "base_price": 92.76590137586203,
+  "quantity": 4,
+  "final_amount": 371.0636055034481
+}
+{
+  "customer_code": "C530",
+  "product_name": "Product 8",
+  "month_number": 1,
+  "base_price": 62.420168278707834,
+  "quantity": 2,
+  "final_amount": 124.84033655741567
+}
+{
+  "customer_code": "C529",
+  "product_name": "Product 10",
+  "month_number": 1,
+  "base_price": 89.94944827919852,
+  "quantity": 1,
+  "final_amount": 89.94944827919852
+}
+{
+  "customer_code": "C569",
+  "product_name": "Product 3",
+  "month_number": 9,
+  "base_price": 73.49901994379938,
+  "quantity": 1,
+  "final_amount": 73.49901994379938
+}
+{
+  "customer_code": "C190",
+  "product_name": "Product 4",
+  "month_number": 10,
+  "base_price": 67.14255681103282,
+  "quantity": 1,
+  "final_amount": 67.14255681103282
+}
+{
+  "customer_code": "C542",
+  "product_name": "Product 6",
+  "month_number": 2,
+  "base_price": 42.661446047362695,
+  "quantity": 1,
+  "final_amount": 42.661446047362695
+}
+{
+  "customer_code": "C855",
+  "product_name": "Product 7",
+  "month_number": 6,
+  "base_price": 22.51048675719929,
+  "quantity": 2,
+  "final_amount": 45.02097351439858
+}
+{
+  "customer_code": "C765",
+  "product_name": "Product 6",
+  "month_number": 10,
+  "base_price": 44.55298352584925,
+  "quantity": 1,
+  "final_amount": 44.55298352584925
+}
+{
+  "customer_code": "C580",
+  "product_name": "Product 7",
+  "month_number": 9,
+  "base_price": 53.000378231467266,
+  "quantity": 4,
+  "final_amount": 212.00151292586906
+}
+{
+  "customer_code": "C382",
+  "product_name": "Product 5",
+  "month_number": 2,
+  "base_price": 71.26905485291923,
+  "quantity": 2,
+  "final_amount": 142.53810970583845
+}
+{
+  "customer_code": "C987",
+  "product_name": "Product 10",
+  "month_number": 5,
+  "base_price": 14.215922498441701,
+  "quantity": 2,
+  "final_amount": 28.431844996883402
+}
+{
+  "customer_code": "C176",
+  "product_name": "Product 9",
+  "month_number": 11,
+  "base_price": 39.88853376885595,
+  "quantity": 4,
+  "final_amount": 159.5541350754238
+}
+{
+  "customer_code": "C563",
+  "product_name": "Product 3",
+  "month_number": 1,
+  "base_price": 61.053381082531025,
+  "quantity": 1,
+  "final_amount": 61.053381082531025
+}
+{
+  "customer_code": "C961",
+  "product_name": "Product 2",
+  "month_number": 2,
+  "base_price": 36.296817762726704,
+  "quantity": 2,
+  "final_amount": 72.59363552545341
+}
+{
+  "customer_code": "C887",
+  "product_name": "Product 6",
+  "month_number": 4,
+  "base_price": 32.260664199195446,
+  "quantity": 3,
+  "final_amount": 96.78199259758634
+}
+{
+  "customer_code": "C929",
+  "product_name": "Product 8",
+  "month_number": 8,
+  "base_price": 43.94321363769216,
+  "quantity": 4,
+  "final_amount": 175.77285455076864
+}
+{
+  "customer_code": "C859",
+  "product_name": "Product 7",
+  "month_number": 5,
+  "base_price": 23.038668219439217,
+  "quantity": 3,
+  "final_amount": 69.11600465831765
+}
+{
+  "customer_code": "C626",
+  "product_name": "Product 4",
+  "month_number": 8,
+  "base_price": 89.55376579597994,
+  "quantity": 3,
+  "final_amount": 268.66129738793984
+}
+{
+  "customer_code": "C127",
+  "product_name": "Product 9",
+  "month_number": 11,
+  "base_price": 49.79479117271114,
+  "quantity": 3,
+  "final_amount": 149.38437351813343
+}
+{
+  "customer_code": "C904",
+  "product_name": "Product 3",
+  "month_number": 10,
+  "base_price": 48.14155919331503,
+  "quantity": 4,
+  "final_amount": 192.56623677326013
+}
+{
+  "customer_code": "C395",
+  "product_name": "Product 6",
+  "month_number": 11,
+  "base_price": 53.67284072578733,
+  "quantity": 4,
+  "final_amount": 214.69136290314933
+}
+{
+  "customer_code": "C065",
+  "product_name": "Product 9",
+  "month_number": 7,
+  "base_price": 12.389558203880192,
+  "quantity": 4,
+  "final_amount": 49.55823281552077
+}
+{
+  "customer_code": "C083",
+  "product_name": "Product 1",
+  "month_number": 8,
+  "base_price": 27.620542198246415,
+  "quantity": 2,
+  "final_amount": 55.24108439649283
+}
+{
+  "customer_code": "C999",
+  "product_name": "Product 9",
+  "month_number": 6,
+  "base_price": 74.66958209211998,
+  "quantity": 2,
+  "final_amount": 149.33916418423996
+}
+{
+  "customer_code": "C906",
+  "product_name": "Product 3",
+  "month_number": 9,
+  "base_price": 45.658911077355775,
+  "quantity": 4,
+  "final_amount": 182.6356443094231
+}
+{
+  "customer_code": "C463",
+  "product_name": "Product 7",
+  "month_number": 5,
+  "base_price": 49.39838010786957,
+  "quantity": 1,
+  "final_amount": 49.39838010786957
+}
+{
+  "customer_code": "C008",
+  "product_name": "Product 8",
+  "month_number": 1,
+  "base_price": 83.49392311905814,
+  "quantity": 3,
+  "final_amount": 250.48176935717441
+}
+{
+  "customer_code": "C053",
+  "product_name": "Product 7",
+  "month_number": 10,
+  "base_price": 11.503904929175619,
+  "quantity": 3,
+  "final_amount": 34.511714787526856
+}
+{
+  "customer_code": "C889",
+  "product_name": "Product 3",
+  "month_number": 11,
+  "base_price": 87.12076453538857,
+  "quantity": 4,
+  "final_amount": 348.4830581415543
+}
+{
+  "customer_code": "C485",
+  "product_name": "Product 8",
+  "month_number": 8,
+  "base_price": 78.38242208775682,
+  "quantity": 2,
+  "final_amount": 156.76484417551364
+}
+{
+  "customer_code": "C976",
+  "product_name": "Product 6",
+  "month_number": 11,
+  "base_price": 55.42217706182447,
+  "quantity": 4,
+  "final_amount": 221.68870824729788
+}
+{
+  "customer_code": "C462",
+  "product_name": "Product 10",
+  "month_number": 3,
+  "base_price": 30.893592532241534,
+  "quantity": 3,
+  "final_amount": 92.6807775967246
+}
+{
+  "customer_code": "C167",
+  "product_name": "Product 10",
+  "month_number": 8,
+  "base_price": 41.04672175064546,
+  "quantity": 2,
+  "final_amount": 82.09344350129092
+}
+{
+  "customer_code": "C156",
+  "product_name": "Product 5",
+  "month_number": 8,
+  "base_price": 21.02718341421952,
+  "quantity": 3,
+  "final_amount": 63.081550242658565
+}
+{
+  "customer_code": "C659",
+  "product_name": "Product 1",
+  "month_number": 8,
+  "base_price": 90.08076119798311,
+  "quantity": 3,
+  "final_amount": 270.2422835939493
+}
+{
+  "customer_code": "C033",
+  "product_name": "Product 2",
+  "month_number": 7,
+  "base_price": 60.573740911918755,
+  "quantity": 2,
+  "final_amount": 121.14748182383751
+}
+{
+  "customer_code": "C945",
+  "product_name": "Product 9",
+  "month_number": 9,
+  "base_price": 41.183393263320994,
+  "quantity": 2,
+  "final_amount": 82.36678652664199
+}
+{
+  "customer_code": "C739",
+  "product_name": "Product 8",
+  "month_number": 2,
+  "base_price": 40.50303884087839,
+  "quantity": 1,
+  "final_amount": 40.50303884087839
+}
+{
+  "customer_code": "C023",
+  "product_name": "Product 5",
+  "month_number": 5,
+  "base_price": 81.12903517421485,
+  "quantity": 2,
+  "final_amount": 162.2580703484297
+}
+{
+  "customer_code": "C251",
+  "product_name": "Product 2",
+  "month_number": 8,
+  "base_price": 25.437990451528066,
+  "quantity": 4,
+  "final_amount": 101.75196180611226
+}
+{
+  "customer_code": "C643",
+  "product_name": "Product 1",
+  "month_number": 7,
+  "base_price": 68.28139699115604,
+  "quantity": 4,
+  "final_amount": 273.1255879646242
+}
+{
+  "customer_code": "C616",
+  "product_name": "Product 10",
+  "month_number": 4,
+  "base_price": 46.361286482119134,
+  "quantity": 2,
+  "final_amount": 92.72257296423827
+}
+{
+  "customer_code": "C063",
+  "product_name": "Product 8",
+  "month_number": 8,
+  "base_price": 97.01963974389349,
+  "quantity": 1,
+  "final_amount": 97.01963974389349
+}
+{
+  "customer_code": "C125",
+  "product_name": "Product 3",
+  "month_number": 9,
+  "base_price": 89.08724754744712,
+  "quantity": 1,
+  "final_amount": 89.08724754744712
+}
+{
+  "customer_code": "C621",
+  "product_name": "Product 8",
+  "month_number": 11,
+  "base_price": 20.017316946816237,
+  "quantity": 2,
+  "final_amount": 40.034633893632474
+}
+{
+  "customer_code": "C675",
+  "product_name": "Product 9",
+  "month_number": 6,
+  "base_price": 69.92971101170698,
+  "quantity": 3,
+  "final_amount": 209.78913303512095
+}
+{
+  "customer_code": "C898",
+  "product_name": "Product 9",
+  "month_number": 7,
+  "base_price": 28.85765707225608,
+  "quantity": 2,
+  "final_amount": 57.71531414451216
+}
+{
+  "customer_code": "C337",
+  "product_name": "Product 2",
+  "month_number": 10,
+  "base_price": 71.96471167953966,
+  "quantity": 1,
+  "final_amount": 71.96471167953966
+}
+{
+  "customer_code": "C612",
+  "product_name": "Product 7",
+  "month_number": 1,
+  "base_price": 99.24059140706717,
+  "quantity": 3,
+  "final_amount": 297.7217742212015
+}
+{
+  "customer_code": "C529",
+  "product_name": "Product 6",
+  "month_number": 5,
+  "base_price": 69.68399596083967,
+  "quantity": 1,
+  "final_amount": 69.68399596083967
+}
+{
+  "customer_code": "C171",
+  "product_name": "Product 7",
+  "month_number": 10,
+  "base_price": 20.65844179285061,
+  "quantity": 3,
+  "final_amount": 61.97532537855183
+}
+{
+  "customer_code": "C695",
+  "product_name": "Product 8",
+  "month_number": 8,
+  "base_price": 13.100524188614031,
+  "quantity": 2,
+  "final_amount": 26.201048377228062
+}
+{
+  "customer_code": "C024",
+  "product_name": "Product 10",
+  "month_number": 9,
+  "base_price": 67.5984745611864,
+  "quantity": 1,
+  "final_amount": 67.5984745611864
+}
+{
+  "customer_code": "C764",
+  "product_name": "Product 8",
+  "month_number": 2,
+  "base_price": 96.33729531037926,
+  "quantity": 4,
+  "final_amount": 385.34918124151704
+}
+{
+  "customer_code": "C556",
+  "product_name": "Product 8",
+  "month_number": 9,
+  "base_price": 67.37521856402469,
+  "quantity": 3,
+  "final_amount": 202.12565569207408
+}
+{
+  "customer_code": "C319",
+  "product_name": "Product 3",
+  "month_number": 7,
+  "base_price": 47.241490205048365,
+  "quantity": 3,
+  "final_amount": 141.7244706151451
+}
+{
+  "customer_code": "C357",
+  "product_name": "Product 3",
+  "month_number": 2,
+  "base_price": 41.653153782373025,
+  "quantity": 1,
+  "final_amount": 41.653153782373025
+}
+{
+  "customer_code": "C978",
+  "product_name": "Product 4",
+  "month_number": 7,
+  "base_price": 28.615928157814196,
+  "quantity": 4,
+  "final_amount": 114.46371263125678
+}
+{
+  "customer_code": "C478",
+  "product_name": "Product 5",
+  "month_number": 11,
+  "base_price": 30.317592127696923,
+  "quantity": 1,
+  "final_amount": 30.317592127696923
+}
+{
+  "customer_code": "C522",
+  "product_name": "Product 9",
+  "month_number": 1,
+  "base_price": 80.27618270617806,
+  "quantity": 3,
+  "final_amount": 240.82854811853417
+}
+{
+  "customer_code": "C493",
+  "product_name": "Product 1",
+  "month_number": 10,
+  "base_price": 67.65866867870763,
+  "quantity": 1,
+  "final_amount": 67.65866867870763
+}
+{
+  "customer_code": "C064",
+  "product_name": "Product 3",
+  "month_number": 9,
+  "base_price": 21.968739423678084,
+  "quantity": 2,
+  "final_amount": 43.93747884735617
+}
+{
+  "customer_code": "C236",
+  "product_name": "Product 1",
+  "month_number": 4,
+  "base_price": 63.75782794231771,
+  "quantity": 3,
+  "final_amount": 191.27348382695314
+}
+{
+  "customer_code": "C091",
+  "product_name": "Product 7",
+  "month_number": 2,
+  "base_price": 85.086593869956,
+  "quantity": 1,
+  "final_amount": 85.086593869956
+}
+{
+  "customer_code": "C230",
+  "product_name": "Product 6",
+  "month_number": 7,
+  "base_price": 47.61320638502209,
+  "quantity": 4,
+  "final_amount": 190.45282554008836
+}
+{
+  "customer_code": "C397",
+  "product_name": "Product 3",
+  "month_number": 6,
+  "base_price": 94.52339152139741,
+  "quantity": 1,
+  "final_amount": 94.52339152139741
+}
+{
+  "customer_code": "C293",
+  "product_name": "Product 2",
+  "month_number": 11,
+  "base_price": 85.05584332424648,
+  "quantity": 2,
+  "final_amount": 170.11168664849296
+}
+{
+  "customer_code": "C941",
+  "product_name": "Product 7",
+  "month_number": 2,
+  "base_price": 46.10993000822464,
+  "quantity": 1,
+  "final_amount": 46.10993000822464
+}
+{
+  "customer_code": "C187",
+  "product_name": "Product 4",
+  "month_number": 5,
+  "base_price": 77.84186437022002,
+  "quantity": 2,
+  "final_amount": 155.68372874044005
+}
+{
+  "customer_code": "C503",
+  "product_name": "Product 4",
+  "month_number": 11,
+  "base_price": 51.72748454414203,
+  "quantity": 3,
+  "final_amount": 155.18245363242607
+}
+{
+  "customer_code": "C712",
+  "product_name": "Product 2",
+  "month_number": 6,
+  "base_price": 61.882188439636366,
+  "quantity": 1,
+  "final_amount": 61.882188439636366
+}
+{
+  "customer_code": "C856",
+  "product_name": "Product 10",
+  "month_number": 5,
+  "base_price": 72.88577954766228,
+  "quantity": 3,
+  "final_amount": 218.65733864298684
+}
+{
+  "customer_code": "C067",
+  "product_name": "Product 6",
+  "month_number": 9,
+  "base_price": 30.050749699647877,
+  "quantity": 1,
+  "final_amount": 30.050749699647877
+}
+{
+  "customer_code": "C203",
+  "product_name": "Product 7",
+  "month_number": 5,
+  "base_price": 82.31138982347446,
+  "quantity": 2,
+  "final_amount": 164.6227796469489
+}
+{
+  "customer_code": "C865",
+  "product_name": "Product 9",
+  "month_number": 7,
+  "base_price": 43.53364999930343,
+  "quantity": 4,
+  "final_amount": 174.1345999972137
+}
+{
+  "customer_code": "C824",
+  "product_name": "Product 4",
+  "month_number": 11,
+  "base_price": 61.47641725486,
+  "quantity": 3,
+  "final_amount": 184.42925176458002
+}
+{
+  "customer_code": "C107",
+  "product_name": "Product 3",
+  "month_number": 2,
+  "base_price": 79.76106604222393,
+  "quantity": 1,
+  "final_amount": 79.76106604222393
+}
+{
+  "customer_code": "C055",
+  "product_name": "Product 2",
+  "month_number": 7,
+  "base_price": 76.90454119140895,
+  "quantity": 4,
+  "final_amount": 307.6181647656358
+}
+{
+  "customer_code": "C982",
+  "product_name": "Product 8",
+  "month_number": 10,
+  "base_price": 58.28019880162345,
+  "quantity": 2,
+  "final_amount": 116.5603976032469
+}
+{
+  "customer_code": "C640",
+  "product_name": "Product 7",
+  "month_number": 10,
+  "base_price": 92.92030656474168,
+  "quantity": 3,
+  "final_amount": 278.76091969422504
+}
+{
+  "customer_code": "C662",
+  "product_name": "Product 7",
+  "month_number": 5,
+  "base_price": 67.49445053859293,
+  "quantity": 2,
+  "final_amount": 134.98890107718586
+}
+{
+  "customer_code": "C531",
+  "product_name": "Product 6",
+  "month_number": 3,
+  "base_price": 14.663446565023861,
+  "quantity": 3,
+  "final_amount": 43.99033969507158
+}
+{
+  "customer_code": "C835",
+  "product_name": "Product 5",
+  "month_number": 10,
+  "base_price": 67.62579572392153,
+  "quantity": 2,
+  "final_amount": 135.25159144784305
+}
+{
+  "customer_code": "C964",
+  "product_name": "Product 4",
+  "month_number": 5,
+  "base_price": 22.604064863834793,
+  "quantity": 2,
+  "final_amount": 45.208129727669586
+}
+{
+  "customer_code": "C460",
+  "product_name": "Product 9",
+  "month_number": 9,
+  "base_price": 92.41504636813322,
+  "quantity": 4,
+  "final_amount": 369.6601854725329
+}
+{
+  "customer_code": "C097",
+  "product_name": "Product 10",
+  "month_number": 6,
+  "base_price": 92.5862517748716,
+  "quantity": 4,
+  "final_amount": 370.3450070994864
+}
+{
+  "customer_code": "C041",
+  "product_name": "Product 9",
+  "month_number": 3,
+  "base_price": 92.51009967346357,
+  "quantity": 4,
+  "final_amount": 370.0403986938543
+}
+{
+  "customer_code": "C864",
+  "product_name": "Product 1",
+  "month_number": 4,
+  "base_price": 75.59517696220675,
+  "quantity": 2,
+  "final_amount": 151.1903539244135
+}
+{
+  "customer_code": "C054",
+  "product_name": "Product 7",
+  "month_number": 10,
+  "base_price": 47.0227672324205,
+  "quantity": 4,
+  "final_amount": 188.091068929682
+}
+{
+  "customer_code": "C913",
+  "product_name": "Product 2",
+  "month_number": 6,
+  "base_price": 61.1217906139978,
+  "quantity": 3,
+  "final_amount": 183.3653718419934
+}
+{
+  "customer_code": "C895",
+  "product_name": "Product 3",
+  "month_number": 4,
+  "base_price": 30.181542687412964,
+  "quantity": 4,
+  "final_amount": 120.72617074965186
+}
+{
+  "customer_code": "C253",
+  "product_name": "Product 6",
+  "month_number": 6,
+  "base_price": 38.97751775395196,
+  "quantity": 3,
+  "final_amount": 116.93255326185587
+}
+{
+  "customer_code": "C972",
+  "product_name": "Product 5",
+  "month_number": 1,
+  "base_price": 14.034985275609198,
+  "quantity": 4,
+  "final_amount": 56.139941102436794
+}
+{
+  "customer_code": "C841",
+  "product_name": "Product 7",
+  "month_number": 1,
+  "base_price": 91.57194789096812,
+  "quantity": 4,
+  "final_amount": 366.2877915638725
+}
+{
+  "customer_code": "C182",
+  "product_name": "Product 9",
+  "month_number": 4,
+  "base_price": 88.5044674548116,
+  "quantity": 4,
+  "final_amount": 354.0178698192464
+}
+{
+  "customer_code": "C991",
+  "product_name": "Product 5",
+  "month_number": 7,
+  "base_price": 57.66942017094827,
+  "quantity": 1,
+  "final_amount": 57.66942017094827
+}
+{
+  "customer_code": "C385",
+  "product_name": "Product 3",
+  "month_number": 9,
+  "base_price": 82.56065454925235,
+  "quantity": 3,
+  "final_amount": 247.68196364775704
+}
+{
+  "customer_code": "C154",
+  "product_name": "Product 2",
+  "month_number": 1,
+  "base_price": 78.13225396791202,
+  "quantity": 1,
+  "final_amount": 78.13225396791202
+}
+{
+  "customer_code": "C052",
+  "product_name": "Product 9",
+  "month_number": 6,
+  "base_price": 92.88657323315827,
+  "quantity": 1,
+  "final_amount": 92.88657323315827
+}
+{
+  "customer_code": "C565",
+  "product_name": "Product 1",
+  "month_number": 5,
+  "base_price": 22.939383075601725,
+  "quantity": 3,
+  "final_amount": 68.81814922680518
+}
+{
+  "customer_code": "C480",
+  "product_name": "Product 6",
+  "month_number": 9,
+  "base_price": 57.075167684483574,
+  "quantity": 1,
+  "final_amount": 57.075167684483574
+}
+{
+  "customer_code": "C556",
+  "product_name": "Product 7",
+  "month_number": 10,
+  "base_price": 99.51246598031567,
+  "quantity": 1,
+  "final_amount": 99.51246598031567
+}
+{
+  "customer_code": "C796",
+  "product_name": "Product 1",
+  "month_number": 2,
+  "base_price": 48.61643319719227,
+  "quantity": 2,
+  "final_amount": 97.23286639438454
+}
+{
+  "customer_code": "C919",
+  "product_name": "Product 10",
+  "month_number": 7,
+  "base_price": 43.202281764878904,
+  "quantity": 2,
+  "final_amount": 86.40456352975781
+}
+{
+  "customer_code": "C299",
+  "product_name": "Product 7",
+  "month_number": 4,
+  "base_price": 62.08552112864322,
+  "quantity": 4,
+  "final_amount": 248.3420845145729
+}
+{
+  "customer_code": "C419",
+  "product_name": "Product 2",
+  "month_number": 4,
+  "base_price": 90.18301767863521,
+  "quantity": 2,
+  "final_amount": 180.36603535727042
+}
+{
+  "customer_code": "C539",
+  "product_name": "Product 1",
+  "month_number": 9,
+  "base_price": 72.12729406072845,
+  "quantity": 3,
+  "final_amount": 216.38188218218534
+}
+{
+  "customer_code": "C778",
+  "product_name": "Product 5",
+  "month_number": 11,
+  "base_price": 70.04946495114376,
+  "quantity": 2,
+  "final_amount": 140.09892990228752
+}
+{
+  "customer_code": "C902",
+  "product_name": "Product 10",
+  "month_number": 11,
+  "base_price": 25.913995764026545,
+  "quantity": 1,
+  "final_amount": 25.913995764026545
+}
+{
+  "customer_code": "C712",
+  "product_name": "Product 2",
+  "month_number": 7,
+  "base_price": 23.05685563295045,
+  "quantity": 2,
+  "final_amount": 46.1137112659009
+}
+{
+  "customer_code": "C162",
+  "product_name": "Product 4",
+  "month_number": 9,
+  "base_price": 13.296964048320163,
+  "quantity": 4,
+  "final_amount": 53.18785619328065
+}
+{
+  "customer_code": "C212",
+  "product_name": "Product 5",
+  "month_number": 2,
+  "base_price": 89.54905770132655,
+  "quantity": 1,
+  "final_amount": 89.54905770132655
+}
+{
+  "customer_code": "C431",
+  "product_name": "Product 3",
+  "month_number": 9,
+  "base_price": 87.16949621555266,
+  "quantity": 3,
+  "final_amount": 261.50848864665795
+}
+{
+  "customer_code": "C489",
+  "product_name": "Product 2",
+  "month_number": 8,
+  "base_price": 64.57735662404141,
+  "quantity": 1,
+  "final_amount": 64.57735662404141
+}
+{
+  "customer_code": "C264",
+  "product_name": "Product 7",
+  "month_number": 6,
+  "base_price": 91.59855033734569,
+  "quantity": 4,
+  "final_amount": 366.39420134938274
+}
+{
+  "customer_code": "C462",
+  "product_name": "Product 1",
+  "month_number": 9,
+  "base_price": 96.55391997372854,
+  "quantity": 3,
+  "final_amount": 289.66175992118565
+}
+{
+  "customer_code": "C573",
+  "product_name": "Product 10",
+  "month_number": 8,
+  "base_price": 80.84601488553739,
+  "quantity": 1,
+  "final_amount": 80.84601488553739
+}
+{
+  "customer_code": "C048",
+  "product_name": "Product 10",
+  "month_number": 9,
+  "base_price": 97.9722446385421,
+  "quantity": 3,
+  "final_amount": 293.9167339156263
+}
+{
+  "customer_code": "C991",
+  "product_name": "Product 2",
+  "month_number": 7,
+  "base_price": 39.17449438045439,
+  "quantity": 3,
+  "final_amount": 117.52348314136317
+}
+{
+  "customer_code": "C226",
+  "product_name": "Product 10",
+  "month_number": 10,
+  "base_price": 18.028064354544917,
+  "quantity": 3,
+  "final_amount": 54.08419306363475
+}
+{
+  "customer_code": "C810",
+  "product_name": "Product 5",
+  "month_number": 8,
+  "base_price": 56.673166295305045,
+  "quantity": 3,
+  "final_amount": 170.01949888591514
+}
+{
+  "customer_code": "C952",
+  "product_name": "Product 9",
+  "month_number": 1,
+  "base_price": 44.92625872137877,
+  "quantity": 3,
+  "final_amount": 134.77877616413633
+}
+{
+  "customer_code": "C952",
+  "product_name": "Product 4",
+  "month_number": 9,
+  "base_price": 59.30377143134048,
+  "quantity": 3,
+  "final_amount": 177.91131429402145
+}
+{
+  "customer_code": "C449",
+  "product_name": "Product 4",
+  "month_number": 11,
+  "base_price": 18.24918397093515,
+  "quantity": 4,
+  "final_amount": 72.9967358837406
+}
+{
+  "customer_code": "C839",
+  "product_name": "Product 7",
+  "month_number": 10,
+  "base_price": 20.99292704156555,
+  "quantity": 3,
+  "final_amount": 62.97878112469665
+}
+{
+  "customer_code": "C492",
+  "product_name": "Product 8",
+  "month_number": 9,
+  "base_price": 34.627219934062246,
+  "quantity": 1,
+  "final_amount": 34.627219934062246
+}
+{
+  "customer_code": "C333",
+  "product_name": "Product 6",
+  "month_number": 1,
+  "base_price": 84.53346879481118,
+  "quantity": 3,
+  "final_amount": 253.60040638443354
+}
+{
+  "customer_code": "C429",
+  "product_name": "Product 8",
+  "month_number": 10,
+  "base_price": 63.33778483231074,
+  "quantity": 2,
+  "final_amount": 126.67556966462148
+}
+{
+  "customer_code": "C251",
+  "product_name": "Product 7",
+  "month_number": 10,
+  "base_price": 56.593943805365846,
+  "quantity": 2,
+  "final_amount": 113.18788761073169
+}
+{
+  "customer_code": "C193",
+  "product_name": "Product 9",
+  "month_number": 3,
+  "base_price": 42.8432916227288,
+  "quantity": 2,
+  "final_amount": 85.6865832454576
+}
+{
+  "customer_code": "C162",
+  "product_name": "Product 5",
+  "month_number": 2,
+  "base_price": 30.047235739988636,
+  "quantity": 1,
+  "final_amount": 30.047235739988636
+}
+{
+  "customer_code": "C220",
+  "product_name": "Product 2",
+  "month_number": 11,
+  "base_price": 94.80914515829504,
+  "quantity": 2,
+  "final_amount": 189.61829031659008
+}
+{
+  "customer_code": "C794",
+  "product_name": "Product 5",
+  "month_number": 6,
+  "base_price": 12.63624779536505,
+  "quantity": 1,
+  "final_amount": 12.63624779536505
+}
+{
+  "customer_code": "C491",
+  "product_name": "Product 7",
+  "month_number": 10,
+  "base_price": 91.82356707925933,
+  "quantity": 1,
+  "final_amount": 91.82356707925933
+}
+{
+  "customer_code": "C091",
+  "product_name": "Product 7",
+  "month_number": 10,
+  "base_price": 30.99231587254982,
+  "quantity": 4,
+  "final_amount": 123.96926349019928
+}
+{
+  "customer_code": "C159",
+  "product_name": "Product 10",
+  "month_number": 9,
+  "base_price": 79.2424261853372,
+  "quantity": 3,
+  "final_amount": 237.72727855601158
+}
+{
+  "customer_code": "C362",
+  "product_name": "Product 1",
+  "month_number": 9,
+  "base_price": 85.67212788877144,
+  "quantity": 2,
+  "final_amount": 171.34425577754288
+}
+{
+  "customer_code": "C248",
+  "product_name": "Product 7",
+  "month_number": 4,
+  "base_price": 28.39571715935319,
+  "quantity": 2,
+  "final_amount": 56.79143431870638
+}
+{
+  "customer_code": "C205",
+  "product_name": "Product 2",
+  "month_number": 4,
+  "base_price": 97.78200205784088,
+  "quantity": 1,
+  "final_amount": 97.78200205784088
+}
+{
+  "customer_code": "C908",
+  "product_name": "Product 2",
+  "month_number": 7,
+  "base_price": 83.9992100982218,
+  "quantity": 1,
+  "final_amount": 83.9992100982218
+}
+{
+  "customer_code": "C765",
+  "product_name": "Product 9",
+  "month_number": 7,
+  "base_price": 72.87749360622723,
+  "quantity": 1,
+  "final_amount": 72.87749360622723
+}
+{
+  "customer_code": "C673",
+  "product_name": "Product 7",
+  "month_number": 11,
+  "base_price": 39.679848361380614,
+  "quantity": 4,
+  "final_amount": 158.71939344552246
+}
+{
+  "customer_code": "C913",
+  "product_name": "Product 3",
+  "month_number": 10,
+  "base_price": 81.15375441334469,
+  "quantity": 3,
+  "final_amount": 243.46126324003404
+}
+{
+  "customer_code": "C666",
+  "product_name": "Product 9",
+  "month_number": 7,
+  "base_price": 86.19926517462977,
+  "quantity": 2,
+  "final_amount": 172.39853034925954
+}
+{
+  "customer_code": "C133",
+  "product_name": "Product 6",
+  "month_number": 10,
+  "base_price": 64.74237379699032,
+  "quantity": 2,
+  "final_amount": 129.48474759398064
+}
+{
+  "customer_code": "C231",
+  "product_name": "Product 8",
+  "month_number": 3,
+  "base_price": 17.66097769312621,
+  "quantity": 3,
+  "final_amount": 52.982933079378626
+}
+{
+  "customer_code": "C443",
+  "product_name": "Product 6",
+  "month_number": 11,
+  "base_price": 87.95469740381306,
+  "quantity": 4,
+  "final_amount": 351.81878961525223
+}
+{
+  "customer_code": "C271",
+  "product_name": "Product 1",
+  "month_number": 4,
+  "base_price": 57.64355494876215,
+  "quantity": 2,
+  "final_amount": 115.2871098975243
+}
+{
+  "customer_code": "C617",
+  "product_name": "Product 7",
+  "month_number": 2,
+  "base_price": 13.797330027238282,
+  "quantity": 4,
+  "final_amount": 55.189320108953126
+}
+{
+  "customer_code": "C871",
+  "product_name": "Product 5",
+  "month_number": 2,
+  "base_price": 51.79884911644662,
+  "quantity": 2,
+  "final_amount": 103.59769823289324
+}
+{
+  "customer_code": "C301",
+  "product_name": "Product 6",
+  "month_number": 4,
+  "base_price": 29.864415665133482,
+  "quantity": 2,
+  "final_amount": 59.728831330266964
+}
+{
+  "customer_code": "C639",
+  "product_name": "Product 6",
+  "month_number": 3,
+  "base_price": 41.52535901427716,
+  "quantity": 3,
+  "final_amount": 124.57607704283147
+}
+{
+  "customer_code": "C659",
+  "product_name": "Product 1",
+  "month_number": 6,
+  "base_price": 19.736271719897985,
+  "quantity": 3,
+  "final_amount": 59.208815159693955
+}
+{
+  "customer_code": "C103",
+  "product_name": "Product 8",
+  "month_number": 6,
+  "base_price": 88.46231314176835,
+  "quantity": 1,
+  "final_amount": 88.46231314176835
+}
